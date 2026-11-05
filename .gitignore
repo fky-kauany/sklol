@@ -1,0 +1,13 @@
+# O repositório público do SkLoL: tudo fica de fora, menos o que está liberado aqui, pelo nome.
+# Pra nada vazar sem querer, um arquivo novo só entra depois de ser listado abaixo.
+/*
+!/.gitignore
+!/README.md
+!/assets/
+/assets/*
+!/assets/icon.png
+!/sklol/
+!/tools/
+/tools/*
+!/tools/ltk_launcher.exe
+!/tools/LeagueToolFlop.dll
