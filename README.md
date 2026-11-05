@@ -26,11 +26,6 @@ O SkLoL deixa você usar skins custom e mods no League of Legends, direto do cli
 
 - **Windows 10 ou 11**
 - **League of Legends** instalado
-- **Os dois arquivos de injeção** (`ltk_patcher_host.exe` e `ltk_patcher_dll.dll`). Eles não vêm no instalador. Se faltar algum, o SkLoL mostra uma janela que ajuda você a baixá-los:
-  - **Baixar os dois arquivos** abre os downloads no seu navegador.
-  - O SkLoL **acha os arquivos sozinho** na sua pasta Downloads, sem você fazer mais nada.
-  - Se ele não achar, clique em **"Já baixou? Clique pra escolher"** e selecione os dois arquivos.
-  - Um tutorial animado e um vídeo mostram cada passo.
 
 Depois de um patch do League, esses arquivos às vezes precisam ser atualizados. Quando isso acontece, o SkLoL avisa com a mesma janela.
 
